@@ -1,0 +1,11 @@
+﻿Group_1,Group_2,U_statistic,p_raw,p_adjusted_Bonferroni,Significance
+Control,Stage I,48464.5,1.049770e-218,1.049770e-217,***
+Control,Stage II,209421.5,0.000000e+00,0.000000e+00,***
+Control,Stage III,63313.0,8.875137e-272,8.875137e-271,***
+Control,Stage IV,6411.0,9.504682e-29,9.504682e-28,***
+Stage I,Stage II,538891.5,6.619332e-02,6.619332e-01,ns
+Stage I,Stage III,200739.5,5.696541e-01,1.000000e+00,ns
+Stage I,Stage IV,15771.0,9.757142e-01,1.000000e+00,ns
+Stage II,Stage III,640722.5,6.150781e-03,6.150781e-02,ns
+Stage II,Stage IV,50474.5,5.511805e-01,1.000000e+00,ns
+Stage III,Stage IV,21470.5,8.339779e-01,1.000000e+00,ns

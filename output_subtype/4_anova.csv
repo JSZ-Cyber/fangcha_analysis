@@ -1,0 +1,4 @@
+﻿Source,SS,df,MS,F,p_value,Significance,Eta_squared
+Between Groups,18552.3455,4,4638.0864,2087.5032,0.000000e+00,***,0.6336
+Within Groups,10727.0164,4828,2.2218,,,,
+Total,29279.362,4832,,,,,
