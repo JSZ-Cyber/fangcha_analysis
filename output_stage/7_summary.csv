@@ -1,9 +1,0 @@
-﻿Item,Value
-Dataset,Cancer Staging
-Number of groups,5
-Total observations,4878
-"All groups normal (Shapiro-Wilk, a=0.05)?",No
-"Equal variance (Levene, a=0.05)?",No
-Recommended method,Kruskal-Wallis + Mann-Whitney U (non-parametric)
-Key result,"H=2544.7106, p=0.000000e+00 ***"
-Effect size (Eta-squared),0.575
